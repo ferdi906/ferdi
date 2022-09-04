@@ -1,6 +1,4 @@
 # Aine-MD
-
-
 # NOTE
 *pihak team developer dan team aine tidak beroperasi kembali karena script ini di perjual belikan*
 
@@ -203,7 +201,7 @@ self: false, // Activate self mode (Ignores other)
 pconly: false, // If that chat not from private bot, bot will ignore
 gconly: false, // If that chat not from group, bot will ignore
 ```
-
+Ferdi
 ---------
 
 #### Thank's To
